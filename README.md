@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @judysongg
-- 👀 I’m interested in Cooking 
+- 👀 I love cooking!! 
 - 🌱 I’m currently learning JavaScript
 - 📫 Reach me at judysongg@gmail.com
 
