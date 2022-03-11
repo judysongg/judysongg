@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judysongg
 - 👀 I love cooking!! 
-- 🌱 I’m currently learning JavaScript
+- 🌱 JavaScript all day everyday!!!
 - 📫 Reach me at judysongg@gmail.com
 
 <!---
