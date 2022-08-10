@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @judysongg
-- 👀 I love to cook and golf!! 
+- 👀 I love to cook!! 
 - 🌱 JavaScript all day everyday!!!
 - 📫 Reach me at judysongg@gmail.com
 
